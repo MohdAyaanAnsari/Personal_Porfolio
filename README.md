@@ -1,16 +1,64 @@
-# React + Vite
+🚀 About the Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Personal Portfolio Website is designed to showcase my work, skills, experience, and online presence in a clean and visually engaging manner.
+The portfolio emphasizes performance, simplicity, and modern UI/UX built using React and component-based architecture.
 
-Currently, two official plugins are available:
+✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚡ Lightning-fast performance (React + Vite)
 
-## React Compiler
+📱 Fully responsive design for all screen sizes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Minimal, modern, and elegant UI
 
-## Expanding the ESLint configuration
+💼 Dedicated Projects Showcase
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Skills & Tools section
+
+📝 Professional About Me page
+
+📮 Contact section with social media links
+
+🌗 Easy to customize and expand
+
+🛠️ Tech Stack
+
+| Technology                          | Purpose                         |
+| ----------------------------------- | ------------------------------- |
+| **React.js**                        | Component-based UI              |
+| **Vite**                            | Fast development build tool     |
+| **JavaScript (ES6+)**               | Core logic                      |
+| **CSS / Tailwind / Custom Styling** | UI Design                       |
+| **React Router**                    | Multi-page navigation (if used) |
+
+📁 Project Structure
+
+src/
+├── components/
+├── pages/
+├── App.jsx
+├── main.jsx
+└── index.css
+
+📸 Screenshots
+
+#Desktop
+<img width="1351" height="644" alt="image" src="https://github.com/user-attachments/assets/d1ecce89-2583-46f4-a511-ba4637bc182e" />
+<img width="1356" height="629" alt="image" src="https://github.com/user-attachments/assets/036c5c88-2f3f-4e25-ba16-94cc25521c17" />
+
+#Mobile
+<img width="213" height="449" alt="image" src="https://github.com/user-attachments/assets/9247615e-5b1c-4a41-954c-368bcec1ace8" />
+<img width="207" height="456" alt="image" src="https://github.com/user-attachments/assets/c330eaf7-c627-4c7b-8767-ea0c850cf1b2" />
+
+📬 Contact
+
+Feel free to reach out for collaboration or opportunities:
+
+Email: ayaanansari9997843139@gmail.com
+
+LinkedIn: MohdAyaanAnsari
+
+GitHub: MohdAyaanAnsari
+
+
+
